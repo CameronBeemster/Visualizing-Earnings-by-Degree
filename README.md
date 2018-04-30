@@ -1,4 +1,4 @@
-# Visualizing-Earnings-by-Degree
+# Visualizing Earnings by Degree
 
 Hello! Thank you for checking out my project.
 
